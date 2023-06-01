@@ -1,0 +1,58 @@
+.scroller {
+  background-image: url("../../assets/img/Toyo%20Seat.jpg");
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@media (min-width: 300px) {
+  #toyoseat-logo {
+    height: 80px;
+  }
+}
+
+background: url("../../assets/img/Toyo%20Seat.jpg") center / cover no-repeat; border-radius: 0px; box-shadow: 0px 0px 20px;#home {
+}
+
+#home {
+  background: url("../../assets/img/Toyo%20Seat.jpg") center / cover no-repeat;
+  border-radius: 0px;
+  box-shadow: 0px 0px 20px;
+}
+
+a {
+  text-decoration: none;
+  color: var(--bs-blue);
+}
+
+@media (min-width: 300px) {
+  footer {
+    height: 140vh;
+  }
+}
+
+@media (min-width: 576px) {
+  footer {
+    height: 120vh;
+  }
+}
+
+@media (min-width: 768px) {
+  footer {
+    height: 500px;
+  }
+}
+
+@media (min-width: 1200px) {
+  footer {
+    height: 370px;
+  }
+}
+
+@media (min-width: 1400px) {
+  footer {
+    height: 390px;
+  }
+}
+
